@@ -1,0 +1,26 @@
+・before:s61/IMG3917
+・before:F1の画像おかしい
+
+
+・s62->s66のズレ
+
+
+・存在しない画像
+-before
+error:no such file    :IMG_0538.JPG
+error:no such file    :IMG_0540.JPG
+error:no such file    :IMG_0963.JPG
+error:no such file    :IMG_0539.JPG
+
+-after
+error:no such file    :IMG_0032.JPG
+error:no such file    :IMG_0033.JPG
+error:no such file    :IMG_0031.JPG
+error:no such file    :IMG_1801.JPG
+error:no such file    :IMG_1625.JPG
+error:no such file    :IMG_1843.JPG
+error:no such file    :IMG_1994.JPG
+error:no such file    :IMG_1838.JPG
+error:no such file    :IMG_1700.JPG
+error:no such file    :IMG_1886.JPG
+error:no such file    :IMG_1630.JPG

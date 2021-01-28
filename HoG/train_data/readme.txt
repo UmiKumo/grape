@@ -1,0 +1,17 @@
+resize = 1/8
+
+
+
+before
+・SM1   :IMG_3341.JPG
+・F1    :IMG_0538.JPG
+・K1    :IMG_1039.JPG
+・S1    :IMG_3651.JPG
+
+
+
+after
+・SM1   :IMG_3953.JPG
+・F1    :IMG_9551.JPG
+・K2    :IMG_0035.JPG
+・S1    :IMG_4254.JPG
